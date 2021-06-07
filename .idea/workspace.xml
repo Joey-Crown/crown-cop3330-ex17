@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b03ddbfd-407f-4831-9090-3737890da0a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1tSTh5Ai2gE27a2ABxhwrAC7lHd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crown-cop3330-ex18" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.App" />
+      <module name="crown-cop3330-ex17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b03ddbfd-407f-4831-9090-3737890da0a3" name="Default Changelist" comment="" />
+      <created>1622761608629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622761608629</updated>
+      <workItem from="1622761609904" duration="69000" />
+      <workItem from="1622761777343" duration="142000" />
+      <workItem from="1622859519153" duration="1578000" />
+      <workItem from="1622861404360" duration="1382000" />
+      <workItem from="1622862857813" duration="848000" />
+      <workItem from="1622863794724" duration="746000" />
+      <workItem from="1622865401911" duration="1829000" />
+      <workItem from="1622948090956" duration="803000" />
+      <workItem from="1622948969766" duration="9000" />
+      <workItem from="1622949007060" duration="95000" />
+      <workItem from="1622949143469" duration="869000" />
+      <workItem from="1622950075625" duration="276000" />
+      <workItem from="1622950404702" duration="1552000" />
+      <workItem from="1622951986847" duration="20000" />
+      <workItem from="1622952123247" duration="1900000" />
+      <workItem from="1622954113685" duration="250000" />
+      <workItem from="1622954436354" duration="18000" />
+      <workItem from="1622955010490" duration="1786000" />
+      <workItem from="1622995460791" duration="1590000" />
+      <workItem from="1622997132067" duration="407000" />
+      <workItem from="1622997658720" duration="36000" />
+      <workItem from="1622997711835" duration="734000" />
+      <workItem from="1622998512729" duration="3539000" />
+      <workItem from="1623022857499" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.IllegalFormatPrecisionException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

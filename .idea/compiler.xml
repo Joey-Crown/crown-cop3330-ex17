@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crown-cop3330-ex08" />
+        <module name="crown-cop3330-ex07" />
+        <module name="crown-cop3330-ex09" />
+        <module name="crown-cop3330-ex04" />
+        <module name="crown-cop3330-ex15" />
+        <module name="crown-cop3330-ex03" />
+        <module name="crown-cop3330-ex14" />
+        <module name="crown-cop3330-ex06" />
+        <module name="crown-cop3330-ex17" />
+        <module name="crown-cop3330-ex05" />
+        <module name="crown-cop3330-ex16" />
+        <module name="crown-cop3330-ex11" />
+        <module name="crown-cop3330-ex10" />
+        <module name="crown-cop3330-ex13" />
+        <module name="crown-cop3330-ex12" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
